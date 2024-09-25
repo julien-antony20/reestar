@@ -13,7 +13,7 @@ This is a simple website for ordering Thai food online. It features a menu of po
 ## How to Run
 1.  Clone the repository
 2.  Open `index.html` in your browser
-3.  You can also access the webpage using the link 
+3.  You can also access the webpage using the link https://julien-antony20.github.io/reestar/
 ## Contributing
 Contributions are welcome! Feel
  free to open issues or pull requests.
