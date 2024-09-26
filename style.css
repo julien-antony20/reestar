@@ -38,11 +38,16 @@
     text-align: center;
 }
 
+.menu__food h5 {
+    font-weight: bold;
+}
+
 .menu__food button {
     display: block;
     margin: auto;
     background-color: black;
     color: white;
+    padding:5px;
 }
 
 
@@ -66,7 +71,7 @@
 }
 
 
-table {
+.contact__form{
     margin:0 auto;
 }
 
